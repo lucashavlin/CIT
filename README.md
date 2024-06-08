@@ -65,3 +65,5 @@ Project 6
 Project 7
   -  Gained experience working with GitHub Pages
   -  Created initial CIT Minor portfolio for labs and projects
+
+<img src="dog sittin weird.png" alt="Dog Sitting Weird">
